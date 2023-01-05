@@ -1,0 +1,2 @@
+# Columnas
+ mostrar 3 
